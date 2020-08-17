@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+  <row>
+    <CardNumber>541000000000000</CardNumber>
+    <CardType>Invalid</CardType>
+    <CardHolderName>Alice</CardHolderName>
+    <CardExpiryDate>3/20/2030</CardExpiryDate>
+  </row>
+  <row>
+    <CardNumber>4120000000000</CardNumber>
+    <CardType>Visa</CardType>
+    <CardHolderName>Bob</CardHolderName>
+    <CardExpiryDate>4/20/2030</CardExpiryDate>
+  </row>
+  <row>
+    <CardNumber>341000000000000</CardNumber>
+    <CardType>AmEx</CardType>
+    <CardHolderName>Eve</CardHolderName>
+    <CardExpiryDate>5/20/2030</CardExpiryDate>
+  </row>
+  <row>
+    <CardNumber>6010000000000000</CardNumber>
+    <CardType>Invalid</CardType>
+    <CardHolderName>Richard</CardHolderName>
+    <CardExpiryDate>6/20/2030</CardExpiryDate>
+  </row>
+</root>
